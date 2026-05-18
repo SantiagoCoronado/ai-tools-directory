@@ -3817,5 +3817,29 @@
       "Cloud data warehouse integration"
     ],
     "useCases": ["Self-service BI", "Data exploration", "Executive dashboards", "Embedded analytics"]
+  },
+  {
+    "slug": "bilig-workpaper",
+    "name": "Bilig WorkPaper",
+    "shortDescription": "Formula workbook runtime for Node services and AI agent tools",
+    "description": "Bilig WorkPaper is an open-source TypeScript runtime for spreadsheet-style business logic in backend services and agent tools. It lets developers edit cells through an API, recalculate formulas, verify readback, and persist WorkPaper JSON without automating Excel or a browser spreadsheet UI.",
+    "category": "code-generation",
+    "secondaryCategory": "data-analysis",
+    "pricing": "free",
+    "url": "https://github.com/proompteng/bilig",
+    "logoUrl": null,
+    "features": [
+      "Formula workbook runtime for Node.js services",
+      "MCP server for agent-readable workbook editing",
+      "Cell writes, recalculation, and display-value readback",
+      "JSON persistence for reviewable WorkPaper state",
+      "TypeScript package published as @bilig/headless"
+    ],
+    "useCases": [
+      "Formula-backed backend services",
+      "Agent spreadsheet tools",
+      "Pricing and payout calculators",
+      "XLSX formula recalculation workflows"
+    ]
   }
 ]
