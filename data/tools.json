@@ -3817,5 +3817,24 @@
       "Cloud data warehouse integration"
     ],
     "useCases": ["Self-service BI", "Data exploration", "Executive dashboards", "Embedded analytics"]
+  },
+  {
+    "slug": "fpvtune",
+    "name": "FPVTune",
+    "shortDescription": "AI-assisted Betaflight blackbox log analysis for FPV drone tuning",
+    "description": "FPVTune analyzes Betaflight blackbox flight logs and suggests practical PID and filter tuning changes for FPV drone builds. It helps pilots turn gyro, motor, and PID error data into actionable tuning decisions.",
+    "category": "data-analysis",
+    "secondaryCategory": "research-knowledge",
+    "pricing": "freemium",
+    "url": "https://fpvtune.com/",
+    "logoUrl": null,
+    "features": [
+      "Betaflight blackbox log analysis",
+      "PID and filter tuning suggestions",
+      "FPV drone diagnostics from flight data",
+      "CLI-oriented tuning output",
+      "Open-source project repository"
+    ],
+    "useCases": ["FPV drone tuning", "Blackbox log analysis", "Betaflight diagnostics", "Flight performance review"]
   }
 ]
