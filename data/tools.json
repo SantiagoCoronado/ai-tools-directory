@@ -3817,5 +3817,30 @@
       "Cloud data warehouse integration"
     ],
     "useCases": ["Self-service BI", "Data exploration", "Executive dashboards", "Embedded analytics"]
+  },
+  {
+    "slug": "roblox-gui-maker",
+    "name": "Roblox GUI Maker",
+    "shortDescription": "Free AI Roblox Studio GUI generator with Lua starter code",
+    "description": "Roblox GUI Maker helps Roblox creators draft Studio interface layouts from a prompt, preview Roblox-style screens, and copy Lua starter code for menus, HUDs, shop panels, inventory screens, and other game UI.",
+    "category": "design-ui",
+    "secondaryCategory": "code-generation",
+    "pricing": "free",
+    "url": "https://robloxguimaker.dev/",
+    "logoUrl": null,
+    "features": [
+      "Prompt-based Roblox GUI layout generation",
+      "Roblox-style screen previews",
+      "Lua starter code output for Roblox Studio",
+      "Templates for menus, HUDs, shops, and inventory UI",
+      "Browser-based workflow with no install required"
+    ],
+    "useCases": [
+      "Roblox Studio UI prototyping",
+      "Game menu generation",
+      "HUD and inventory layout drafting",
+      "Lua GUI starter code",
+      "Learning Roblox ScreenGui structure"
+    ]
   }
 ]
