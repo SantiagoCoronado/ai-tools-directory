@@ -3817,5 +3817,29 @@
       "Cloud data warehouse integration"
     ],
     "useCases": ["Self-service BI", "Data exploration", "Executive dashboards", "Embedded analytics"]
+  },
+  {
+    "slug": "photogenerai",
+    "name": "PhotoGenerAI",
+    "shortDescription": "Free AI photo generator and editor that works in the browser, no sign-up required",
+    "description": "PhotoGenerAI creates and edits photos with AI. It offers text-to-image generation, image-to-image edits, photo enhancement, and style tools. Free to try without an account, with paid credit packs and subscriptions for heavier use.",
+    "category": "image-generation",
+    "secondaryCategory": "design-ui",
+    "pricing": "freemium",
+    "url": "https://photogenerai.com",
+    "logoUrl": "https://photogenerai.com/brand/logo-512.png",
+    "features": [
+      "Text-to-image photo generation",
+      "Image-to-image editing",
+      "Photo enhancement and upscaling",
+      "Multiple style and era presets",
+      "No sign-up required to try"
+    ],
+    "useCases": [
+      "Social media visuals",
+      "Product and profile photos",
+      "Photo restoration and enhancement",
+      "Style and decade transformations"
+    ]
   }
 ]
